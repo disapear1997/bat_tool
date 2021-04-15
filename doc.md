@@ -1,7 +1,7 @@
 ## 定義
-####工作區(Working Directory)：你存檔案的地方。
-####佔存區(Stage or index)：你將資料提交到.git資料夾。
-####版本庫(Repository)：你將資料提交到當前分支。
+#### 工作區(Working Directory)：你存檔案的地方。
+#### 佔存區(Stage or index)：你將資料提交到.git資料夾。
+#### 版本庫(Repository)：你將資料提交到當前分支。
 ## 1. 初始化
 ```
 git init
